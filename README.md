@@ -3,13 +3,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/GopalShekhawat16/E-commerce-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd E-commerce-app
 ```
 
 Install dependencies
